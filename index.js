@@ -15,8 +15,8 @@ btn2.addEventListener("click", event => {
     // Bor bolsa atributni valuesini ob beradi 
 })
 
-btn2.addEventListener("click", event => {
-    has = img.getAttribute("width")
+btn3.addEventListener("click", event => {
+    has = img.setAttribute("width", "200px")
     console.log(has);
-    // Bor bolsa atributni valuesini ob beradi 
+    // Bor bolsa atributni valuesini ozgartirib qoyadi 
 })
