@@ -25,5 +25,5 @@ btn3.addEventListener("click", event => {
 btn4.addEventListener("click", event => {
     has = img.removeAttribute("src")
     console.log(has);
-    // Bor bolsa atributni yoqotadi 
+    // Bor bolsa atributni yoqotadi. 
 })
